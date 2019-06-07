@@ -1,3 +1,5 @@
+### This code is associated with the paper from Piva et al., "The dorsomedial prefrontal cortex computes task-invariant relative subjective value for self and other". eLife, 2019. http://dx.doi.org/10.7554/eLife.44939
+
 Social Decision-Making Task ReadMe
 
 The Matlab files take fit parameters and test behavioral models for either intertemporal choice (examples included) or risky choice. For these, run “social_decision_model_main_script.m” which calls the others. This code is heavily adapted from code developed in Lockwood et al., Nature Human Behaviour, 2017.
